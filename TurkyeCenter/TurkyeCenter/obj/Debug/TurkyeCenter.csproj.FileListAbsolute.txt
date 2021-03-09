@@ -1,0 +1,14 @@
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\bin\Debug\TurkyeCenter.exe.config
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\bin\Debug\TurkyeCenter.exe
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\bin\Debug\TurkyeCenter.pdb
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.csprojAssemblyReference.cache
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.Form1.resources
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.Properties.Resources.resources
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.csproj.GenerateResource.cache
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.exe
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.pdb
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.Form2.resources
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.Form3.resources
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.Form4.resources
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.Form5.resources
+C:\Users\MC\source\repos\TurkyeCenter\TurkyeCenter\obj\Debug\TurkyeCenter.splash.resources
